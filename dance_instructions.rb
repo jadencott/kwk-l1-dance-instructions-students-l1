@@ -33,7 +33,7 @@ end
   
   
   
-end
+
 
 def upper_body
   puts "Holding your arms out in front of you, straight and at chest level"
