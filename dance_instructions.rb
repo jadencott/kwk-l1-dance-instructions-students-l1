@@ -13,18 +13,14 @@ end
   puts "lower left foot to the ground"
   puts "bounce left foot back up slightly"
   puts "kick your left foot a few inches back"
-  puts "Bounce left foot"
-  puts "Bounce right foot"
-  puts "Bounce left foot"
-  puts "Bounce left foot"
 end
 
 def right_skip_step
   puts "lower right foot to the ground"
   puts "bounce right foot back up slightly"
   puts "kick your right foot a few inches back"
- end 
-  
+  end 
+ def foot_bounce 
   puts "Bounce right foot"
   puts "Bounce left foot"
   puts "Bounce right foot"
@@ -33,7 +29,7 @@ def right_skip_step
   puts "Bounce right foot"
   puts "Bounce left foot"
   puts "Bounce left foot"
-  
+end 
   
   
   
