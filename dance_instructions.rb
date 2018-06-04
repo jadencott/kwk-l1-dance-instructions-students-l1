@@ -36,6 +36,8 @@ end
 def lift
   puts "lift your arms up and down in a loose bouncing movement"
 end 
+def lasso 
+  
 
 
   
