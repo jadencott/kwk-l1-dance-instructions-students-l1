@@ -23,10 +23,20 @@ def right_skip_step
   puts "lower right foot to the ground"
   puts "bounce right foot back up slightly"
   puts "kick your right foot a few inches back"
+ end 
+  
   puts "Bounce right foot"
   puts "Bounce left foot"
   puts "Bounce right foot"
   puts "Bounce right foot"
+  puts  "Bounce left foot"
+  puts "Bounce right foot"
+  puts "Bounce left foot"
+  puts "Bounce left foot"
+  
+  
+  
+  
 end
 
 def upper_body
@@ -45,6 +55,7 @@ def lasso
 end
 
 
+  lower_body 
   
   
   
