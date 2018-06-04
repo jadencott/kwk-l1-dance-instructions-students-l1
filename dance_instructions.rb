@@ -38,6 +38,10 @@ def lift
 end 
 def lasso 
   
+  
+  
+  
+  
 
 
   
