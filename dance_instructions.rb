@@ -53,7 +53,8 @@ end
 
   lower_body 
   base_footwork
-  foot_bounce+upper_body
+  foot_bounce
+  upper_body
   lasso_start
   lasso
   lasso
