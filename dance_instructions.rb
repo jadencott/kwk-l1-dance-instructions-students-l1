@@ -41,7 +41,10 @@ def lasso_start
   puts "lift right arm up and point the right elbow diagonally to the right"
 end
 def lasso 
-  
+  puts "raise right forearm and whip it around in small circles to the beat of the song"
+end
+
+
   
   
   
