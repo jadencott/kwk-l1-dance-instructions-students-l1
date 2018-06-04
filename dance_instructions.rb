@@ -52,6 +52,9 @@ end
 
 
   lower_body 
+  base_footwork
+  foot_bounce+upper_body
+  
   
   
   
