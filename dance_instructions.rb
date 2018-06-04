@@ -36,11 +36,14 @@ end
 def lift
   puts "lift your arms up and down in a loose bouncing movement"
 end 
-def lasso 
+def lasso_start
   puts "Hold left arm so that the back of your wrist is near your chin, pointing left elbow straight left"
   puts "lift right arm up and point the right elbow diagonally to the right"
 end
-
+def lasso 
+  
+  
+  
   
   
   
